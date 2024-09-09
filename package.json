@@ -1,6 +1,6 @@
 {
-	"name": "examplename",
-	"productName": "examplename",
+	"name": "extract-genes",
+	"productName": "extract-genes",
 	"version": "1.0.0",
 	"main": ".webpack/main",
 	"scripts": {
